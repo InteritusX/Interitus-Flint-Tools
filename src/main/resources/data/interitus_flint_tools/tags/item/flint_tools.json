@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "interitus_flint_tools:flint_sword",
+    "interitus_flint_tools:flint_pickaxe",
+    "interitus_flint_tools:flint_axe",
+    "interitus_flint_tools:flint_shovel",
+    "interitus_flint_tools:flint_hoe"
+  ]
+}

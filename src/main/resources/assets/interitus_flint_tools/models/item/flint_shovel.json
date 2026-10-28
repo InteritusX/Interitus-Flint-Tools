@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "interitus_flint_tools:item/flint_shovel"
+  }
+}

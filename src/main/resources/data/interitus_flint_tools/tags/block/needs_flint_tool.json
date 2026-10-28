@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:base_stone_overworld",
+    "#minecraft:stone_bricks",
+    "#minecraft:coal_ores",
+    "minecraft:cobblestone",
+    "minecraft:mossy_cobblestone",
+    "minecraft:polished_deepslate",
+    "minecraft:cobbled_deepslate",
+    "minecraft:deepslate_bricks",
+    "minecraft:cracked_deepslate_bricks",
+    "minecraft:deepslate_tiles",
+    "minecraft:cracked_deepslate_tiles",
+    "minecraft:chiseled_deepslate",
+    "minecraft:polished_tuff",
+    "minecraft:tuff_bricks",
+    "minecraft:chiseled_tuff",
+    "minecraft:chiseled_tuff_bricks",
+    "minecraft:calcite",
+    "minecraft:basalt",
+    "minecraft:polished_basalt",
+    "minecraft:smooth_basalt",
+    "minecraft:blackstone",
+    "minecraft:polished_blackstone",
+    "minecraft:polished_blackstone_bricks",
+    "minecraft:cracked_polished_blackstone_bricks",
+    "minecraft:chiseled_polished_blackstone"
+  ]
+}

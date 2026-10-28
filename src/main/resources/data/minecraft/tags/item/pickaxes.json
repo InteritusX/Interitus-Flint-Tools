@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "interitus_flint_tools:flint_pickaxe"
+  ],
+  "remove": [
+    "minecraft:wooden_pickaxe"
+  ]
+}
